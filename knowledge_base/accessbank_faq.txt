@@ -1,0 +1,77 @@
+# AccessBank Knowledge Base
+
+## General Information
+- AccessBank is one of Azerbaijan's leading microfinance banks, headquartered in Baku.
+- AccessBank serves individuals, entrepreneurs, and small-to-medium businesses.
+- Official website: https://www.accessbank.az
+- Customer support hotline: *8801 (free from mobile) or +994 12 310 88 01
+- Email: info@accessbank.az
+
+## Working Hours
+- Branches: Monday to Friday, 09:00 – 18:00
+- Some branches open on Saturday: 09:00 – 14:00
+- Branches are closed on Sundays and public holidays
+- Online banking and ATMs are available 24/7
+
+## Branch Network
+- AccessBank has branches across Azerbaijan including Baku, Ganja, Sumgait, Lankaran, Sheki, and other cities.
+- To find the nearest branch: visit https://www.accessbank.az/en/branches
+
+## Mobile Banking & Internet Banking
+- AccessBank mobile app is available on iOS (App Store) and Android (Google Play)
+- Internet banking portal: https://ibank.accessbank.az
+- To register: visit a branch with your ID or register through the mobile app
+- For login issues: call *8801 or visit the nearest branch
+- OTP codes are sent to the phone number registered with your account
+
+## Cards
+- AccessBank issues Visa and Mastercard debit and credit cards
+- Cards can be ordered at any branch or through the mobile app
+- Standard card delivery: 3-5 business days
+- For lost or stolen cards: immediately call *8801 to block the card
+- Card blocking is available 24/7 via the hotline
+- ATM withdrawal limits: up to 1000 AZN per day (standard)
+
+## Transfers & Payments
+- Transfers between AccessBank accounts: instant and free
+- Transfers to other banks in Azerbaijan: processed within 1 business day
+- International transfers: SWIFT transfers available, 2-3 business days
+- Payment services: utility bills, mobile top-up, taxes available via mobile app
+- Transfer limits: up to 10,000 AZN per day via mobile banking
+
+## Loans & Credit Products
+- AccessBank offers personal loans, business loans, mortgage loans, and consumer loans
+- Loan application can be submitted online or at any branch
+- Required documents: ID card, tax ID (VÖEN), proof of income
+- Loan decisions: typically within 1-3 business days
+- Minimum loan amount: 200 AZN
+- Maximum personal loan: up to 50,000 AZN depending on income
+- Loan repayment: via mobile app, internet banking, or branch
+
+## Deposits & Savings
+- AccessBank offers term deposits in AZN, USD, and EUR
+- Interest rates vary by term and currency
+- Minimum deposit: 100 AZN / 100 USD / 100 EUR
+- Deposits are insured under the Azerbaijan Deposit Insurance Fund (ADIF)
+
+## Currency Exchange
+- Currency exchange available at all branches
+- Rates are updated daily and available on the website
+- Online currency exchange available via mobile banking
+
+## Security & Safety
+- AccessBank will NEVER ask for your PIN, CVV, OTP, password, or full card number
+- If someone asks for this information claiming to be AccessBank, it is a scam
+- Report suspicious activity immediately to *8801
+
+## Account Opening
+- Individual accounts can be opened at any branch with a valid ID
+- Business accounts require additional documentation
+- Students and young people (18+) can open accounts with just an ID card
+
+## Fees & Commissions
+- Account maintenance: free for standard accounts
+- Card issuance: free for first card
+- ATM withdrawals at AccessBank ATMs: free
+- ATM withdrawals at other bank ATMs: 1% commission (min 0.50 AZN)
+- International transfers: fees apply depending on amount and destination

@@ -1,0 +1,12 @@
+services:
+  accessbank-bot:
+    build: .
+    container_name: accessbank-ai-agent
+    env_file:
+      - .env
+    volumes:
+      - db_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  db_data:
