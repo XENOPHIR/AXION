@@ -74,13 +74,6 @@ docker-compose up --build
 
 To verify the system is working end-to-end, use these real inboxes:
 
-### 📧 Sent emails (Gmail outbox)
-```
-Email:    splunkalert2@gmail.com
-Password: axionteam5!
-```
-Login at gmail.com — all sent escalation emails are visible in Sent.
-
 ### 📬 Department inboxes (receive escalations)
 
 **Digital Banking / Card Operations / Transfers / Customer Service:**
